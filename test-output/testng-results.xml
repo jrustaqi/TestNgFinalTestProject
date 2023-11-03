@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15926" started-at="2022-09-03T12:25:13 CDT" finished-at="2022-09-03T12:25:29 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15926" started-at="2022-09-03T12:25:13 CDT" finished-at="2022-09-03T12:25:29 CDT">
+      <class name="test.ToDoListTest">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:test.ToDoListTest@bd8db5a]" name="openUrl" is-config="true" duration-ms="3293" started-at="2022-09-03T12:25:13 CDT" finished-at="2022-09-03T12:25:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="validateUserIsAbleToAddCategory()[pri:1, instance:test.ToDoListTest@bd8db5a]" name="validateUserIsAbleToAddCategory" duration-ms="5037" started-at="2022-09-03T12:25:17 CDT" finished-at="2022-09-03T12:25:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserIsAbleToAddCategory -->
+        <test-method status="PASS" signature="validateMonthDropdownElement()[pri:2, instance:test.ToDoListTest@bd8db5a]" name="validateMonthDropdownElement" duration-ms="2269" started-at="2022-09-03T12:25:22 CDT" finished-at="2022-09-03T12:25:24 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthDropdownElement -->
+        <test-method status="PASS" signature="validateDuplicateCategory()[pri:3, instance:test.ToDoListTest@bd8db5a]" name="validateDuplicateCategory" duration-ms="4467" started-at="2022-09-03T12:25:24 CDT" finished-at="2022-09-03T12:25:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDuplicateCategory -->
+        <test-method status="PASS" signature="closeUrl()[pri:0, instance:test.ToDoListTest@bd8db5a]" name="closeUrl" is-config="true" duration-ms="753" started-at="2022-09-03T12:25:29 CDT" finished-at="2022-09-03T12:25:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUrl -->
+      </class> <!-- test.ToDoListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
